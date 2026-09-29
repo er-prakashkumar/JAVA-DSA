@@ -1,0 +1,4 @@
+git status  ---> Check changes 
+git add .   ---> Stage them
+git commit -m "Describe what you added"  ---> Commit
+git push    ---> Push
